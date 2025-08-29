@@ -27,7 +27,13 @@ This project analyzes air quality data from Indian cities between 2015 and 2020.
 - Explore data structure, summary statistics, and missing values
 - Visualize AQI category distribution (if available)
 - Visualize correlation heatmap for pollutants and AQI
+  ---
+ ## SCREENSHOTS
+ <img width="1912" height="1002" alt="image" src="https://github.com/user-attachments/assets/72295acd-ccc3-4d20-a978-f4b0e7654e7d" />
+ <img width="1916" height="973" alt="image" src="https://github.com/user-attachments/assets/806a71fd-ab3e-47ee-9edf-311374b6b084" />
+ <img width="1896" height="1007" alt="image" src="https://github.com/user-attachments/assets/bb7167fa-ff3f-4155-88f2-ec2fdce7f1e7" />
 
+  ---
 ## Example Visualizations
 - Distribution of AQI categories
 - Correlation heatmap of pollutants and AQI
